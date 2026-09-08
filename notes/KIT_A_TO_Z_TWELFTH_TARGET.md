@@ -10,15 +10,15 @@ NO PAY
 |------|--------|
 | A adapt | ok — `automation_adapt.py --heal --write --quick --target /Users/togi/Marketplace` |
 | B verify | ok — `peer_orchestrate --self-check --quick` ISSUES:none |
-| C worktree | ok — wt=`/Users/togi/Marketplace-kit-a-to-z-20260908T035933` · branch=`peer/kit-a-to-z-20260908T035933` |
-| D artifact | **PR** https://github.com/heyitsmeyourbudlol-lgtm/Marketplace/pull/2 (sibling race [PR #1](https://github.com/heyitsmeyourbudlol-lgtm/Marketplace/pull/1) on `…T035850`) |
+| C worktree | ok — wt=`/Users/togi/Marketplace-kit-a-to-z-20260908T035850` · branch=`peer/kit-a-to-z-20260908T035850` |
+| D artifact | **MERGED** https://github.com/heyitsmeyourbudlol-lgtm/Marketplace/pull/1 (race [PR #2](https://github.com/heyitsmeyourbudlol-lgtm/Marketplace/pull/2) **MERGED**; lean [PR #3](https://github.com/heyitsmeyourbudlol-lgtm/Marketplace/pull/3) **MERGED** `b2e0141`) |
 | E writeback | ok — hub proof paths |
 
 ## Irreversible artifact (Mac)
 
 - Origin wired: `https://github.com/heyitsmeyourbudlol-lgtm/Marketplace.git`
-- Branch: `peer/kit-a-to-z-20260908T035933`
-- PR: https://github.com/heyitsmeyourbudlol-lgtm/Marketplace/pull/2
+- Branch: `peer/kit-a-to-z-20260908T035850`
+- Canonical PR: https://github.com/heyitsmeyourbudlol-lgtm/Marketplace/pull/1 **MERGED** @ `99d6c93`
 - Seed: empty `.git` → README commits `e3e6660` then `99d6c93` then kit-run
 - SaaS Health Dashboard: no `.git` — deferred thirteenth
 - Eleventh SoT: F.I.R.E. [PR #1](https://github.com/heyitsmeyourbudlol-lgtm/FIRE-Project/pull/1)
@@ -32,4 +32,4 @@ NO PAY
 
 | wt | branch | tip |
 |----|--------|-----|
-| `/Users/togi/Marketplace-kit-a-to-z-20260908T035933` | `peer/kit-a-to-z-20260908T035933` | b9cb927 |
+| `/Users/togi/Marketplace-kit-a-to-z-20260908T035850` | `peer/kit-a-to-z-20260908T035850` | `99d6c93` (seed) → lean merge `b2e0141` via [PR #3](https://github.com/heyitsmeyourbudlol-lgtm/Marketplace/pull/3) |
