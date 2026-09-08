@@ -32,4 +32,4 @@ NO PAY
 
 | wt | branch | tip |
 |----|--------|-----|
-| `/Users/togi/Marketplace-kit-a-to-z-20260908T035933` | `peer/kit-a-to-z-20260908T035933` | _(after receipt commit)_ |
+| `/Users/togi/Marketplace-kit-a-to-z-20260908T035933` | `peer/kit-a-to-z-20260908T035933` | b9cb927 |
